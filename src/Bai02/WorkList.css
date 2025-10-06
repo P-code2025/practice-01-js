@@ -1,0 +1,14 @@
+.input-work {
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 4px;
+  width: 250px;
+  margin: 10px 10px;
+}
+.button-nhap {
+  background-color: rgba(161, 46, 187, 0.666);
+  border: 1px solid black;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 4px;
+}

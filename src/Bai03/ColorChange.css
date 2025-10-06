@@ -1,0 +1,22 @@
+.button {
+  border: 1px solid black;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 4px;
+}
+.button-red {
+  background-color: rgba(218, 11, 11, 0.748);
+  color: white;
+}
+.button-green {
+  background-color: rgb(53, 181, 24);
+  color: white;
+}
+.button-blue {
+  background-color: rgb(54, 77, 204);
+  color: white;
+}
+.button-yellow {
+  background-color: rgb(188, 188, 39);
+  color: white;
+}
